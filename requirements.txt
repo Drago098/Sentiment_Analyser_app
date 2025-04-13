@@ -1,0 +1,18 @@
+# Core ML dependencies
+scikit-learn
+joblib
+numpy
+pandas
+scipy
+
+
+# Data loading and EDA
+datasets
+pandas
+matplotlib
+wordcloud
+
+
+dvc
+
+

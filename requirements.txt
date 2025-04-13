@@ -1,18 +1,20 @@
 # Core ML dependencies
-scikit-learn
-joblib
-numpy
-pandas
-scipy
+#scikit-learn
+#joblib
+#numpy
+#pandas
+#scipy
 
 
 # Data loading and EDA
-datasets
-pandas
-matplotlib
-wordcloud
+#datasets
+##pandas
+#matplotlib
+#wordcloud
 
 
-dvc
+#dvc
+
+seaborn
 
 
